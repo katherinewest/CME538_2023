@@ -1,2 +1,4 @@
 # yes I am testing! and in the future people, please work from separate branches
 sincerely, your TA Katia
+
+the proper way! making a new branch everyone, and safely writing my new work here :D
